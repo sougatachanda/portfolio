@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="./css/animate.css" />
     <link rel="stylesheet" href="./css/style.css" />
-    <title>Sougata Chanda | HOME</title>
+   
   </head>
   <body>
     
